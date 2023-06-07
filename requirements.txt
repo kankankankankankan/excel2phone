@@ -1,0 +1,5 @@
+Flask==2.0.2
+openpyxl==3.0.9
+pandas==1.3.4
+Werkzeug==2.0.2
+xlrd==2.0.1
