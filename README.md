@@ -13,8 +13,11 @@
 邮箱为126.com|163.com|wo.cn|189.com|139.com
 
 使用python 安装环境后直接运行即可！
-`pip install -r requirements.txt`或者
-`pip3 install -r requirements.txt`
+```
+pip install -r requirements.txt 
+或
+pip3 install -r requirements.txt
+```
 
 本机可以直接访问127.0.0.1即可
 
